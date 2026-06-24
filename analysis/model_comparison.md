@@ -52,3 +52,6 @@ Multiple Regression
 Reason:
 
 It combines multiple business drivers and provides more useful business insights than individual-variable models.
+
+
+Due to software limitations in Google Sheets, the multiple regression model was documented using variable selection, dummy variable preparation, and business interpretation. The model structure was designed to evaluate the combined effect of operational, marketing, and regional factors on monthly sales.
