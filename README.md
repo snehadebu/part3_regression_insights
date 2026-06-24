@@ -167,3 +167,15 @@ Based on the analysis:
 * multiple_regression_output.png
 * residuals_preview.png
 * model_comparison_preview.png
+
+* ## Key Findings
+
+* Footfall was the strongest predictor of monthly sales with an R² of 0.736.
+* Marketing spend showed a positive relationship with sales but explained a smaller proportion of variation (R² = 0.167).
+* Inventory availability is expected to contribute positively to sales performance.
+* Regional differences may influence store-level sales outcomes.
+
+## Final Conclusion
+
+The analysis indicates that customer footfall is the most important driver of monthly sales among the variables tested. A multiple regression framework was developed to combine marketing, operational, and regional factors into a single business model. Leadership should focus on increasing store traffic while maintaining inventory availability and targeted marketing investments.
+
